@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobileProgrammingMidterm</string>
+    <string name="full_name">Ahmet ALTUN</string>
+    <string name="student_id">201913709075</string>
+    <string name="convertor">Convertor</string>
+    <string name="random_progress_bar">Random Progress Bar</string>
+    <string name="send_sms">Send SMS</string>
+</resources>
